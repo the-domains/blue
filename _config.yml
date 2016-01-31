@@ -1,6 +1,6 @@
 name: Blue
 favicon: null
-layout_spectrum: 0.21513239946216345
+layout_spectrum: 1
 typography_spectrum: 0.9445870851632208
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.37173724570311606
+  brandStrength: 0
   lightness: 0.9700759225524962
-  saturation: 0.05125070852227509
+  saturation: 0.5
   rhythmicContrast: 0.5609862254932523
 purpose: []
